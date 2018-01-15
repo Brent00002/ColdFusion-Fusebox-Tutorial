@@ -10,7 +10,7 @@
 
 ⋅⋅* Go to file fusebox.xml.cfm and create three circuits: one for the controller, one for the model, and one for the view. Circuits tag should look like this:
 
-```
+```coldfusion
 <circuits>
   <circuit alias="employee" path="circuits/employees/" parent="" />
   <circuit alias="memployee" path="circuits/employees/model/" parent="" />
