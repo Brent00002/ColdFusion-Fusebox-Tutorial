@@ -8,7 +8,7 @@
 
 * Create folder employees/view with file circuit.xml.cfm.
 
-![Directory Image](/readme/directory_image.jpg?raw=true)
+![Directory Image](/readme/directory_image.PNG?raw=true)
 
 * Go to file fusebox.xml.cfm and create three circuits: one for the controller, one for the model, and one for the view.
 
