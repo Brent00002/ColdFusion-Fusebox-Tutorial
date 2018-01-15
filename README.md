@@ -8,6 +8,8 @@
 
 * Create folder employees/view with file circuit.xml.cfm.
 
+* Add data source via ColdFusion Administrator (URL will look like) http://127.0.0.1:8500/CFIDE/administrator/index.cfm.
+
 ![Directory Image](/readme/directory_image.PNG?raw=true)
 
 * Go to file fusebox.xml.cfm and create three circuits: one for the controller, one for the model, and one for the view.
