@@ -34,7 +34,7 @@
 </cfquery>
 ```
 
-* Go to file employees/model/circuti.xml.cfm to include the template file as part of the model.
+* Go to file employees/model/circuit.xml.cfm to include the template file as part of the model.
 
 ```coldfusion
 <?xml version="1.0" encoding="UTF-8"?>
