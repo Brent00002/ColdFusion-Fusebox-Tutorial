@@ -90,7 +90,7 @@ The parsed folder holds the automatically generated files that are required to r
 ?fusebox.parseall=true
 ```
 
-* Saied says this works sometimes. Password might need to match `<parameters><parameter name="password" value="skeleton" /></parameters>` in file fusebox.xml.cfm.
+* Saied says this works sometimes. Password might need to match `<parameters><parameter name="password" value="skeleton" /></parameters>` in the file fusebox.xml.cfm.
 
 ```
 ?fusebox.load=true&fusebox.parse=true&fusebox.password=password&fusebox.loadclean=true  
