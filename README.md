@@ -96,7 +96,7 @@ The parsed folder holds the automatically generated files that are required to r
 ?fusebox.load=true&fusebox.parse=true&fusebox.password=password&fusebox.loadclean=true  
 ```
 
-* Haven't tried.
+* Haven't tried, but read a stackoverflow post that says these can be ran after `?fusebox.parseall=true`.
 
 ```
 ?fusebox.loadclean=true
